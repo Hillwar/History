@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kiril/AndroidStudioProjects/History/app/src/main/res/drawable/circle.xml" value="0.1" />
+        <entry key="..\:/Users/kiril/AndroidStudioProjects/History/app/src/main/res/drawable/circle2.xml" value="0.1" />
+        <entry key="..\:/Users/kiril/AndroidStudioProjects/History/app/src/main/res/drawable/item.xml" value="0.1" />
+        <entry key="..\:/Users/kiril/AndroidStudioProjects/History/app/src/main/res/layout/activity_main.xml" value="0.12371134020618557" />
+        <entry key="..\:/Users/kiril/AndroidStudioProjects/History/app/src/main/res/layout/activity_quetions.xml" value="0.3625" />
+        <entry key="..\:/Users/kiril/AndroidStudioProjects/History/app/src/main/res/layout/card_item.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/kiril/AndroidStudioProjects/History/app/src/main/res/layout/fragment_questions.xml" value="0.33" />
+        <entry key="..\:/Users/kiril/AndroidStudioProjects/History/app/src/main/res/layout/fragment_quetions.xml" value="0.1" />
+        <entry key="..\:/Users/kiril/AndroidStudioProjects/History/app/src/main/res/layout/fragment_quiz.xml" value="0.16" />
+        <entry key="..\:/Users/kiril/AndroidStudioProjects/History/app/src/main/res/layout/fragment_workout.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/kiril/AndroidStudioProjects/History/app/src/main/res/layout/item.xml" value="0.3625" />
+        <entry key="..\:/Users/kiril/AndroidStudioProjects/History/app/src/main/res/menu/menu.xml" value="0.12834224598930483" />
+        <entry key="..\:/Users/kiril/AndroidStudioProjects/History/app/src/main/res/menu/nav_graph.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
